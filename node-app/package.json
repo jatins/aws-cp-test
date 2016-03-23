@@ -1,0 +1,23 @@
+{
+  "name": "aws-cp-test",
+  "version": "1.0.0",
+  "description": "testing AWS code pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jatins/aws-cp-test.git"
+  },
+  "author": "JS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jatins/aws-cp-test/issues"
+  },
+  "homepage": "https://github.com/jatins/aws-cp-test",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
